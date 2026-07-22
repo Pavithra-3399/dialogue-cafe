@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+
+  <!-- Brand mark: cup with a raised-hand steam wisp -->
+  <symbol id="mark-logo" viewBox="0 0 100 100">
+    <path d="M28 42 h40 v22 a20 20 0 0 1 -20 20 a20 20 0 0 1 -20 -20 Z" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M68 46 h6 a10 10 0 0 1 0 20 h-4" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
+    <path d="M36 34 c0,-6 5,-6 5,-12 M46 34 c0,-6 5,-6 5,-12 M56 34 c0,-6 5,-6 5,-12" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="20" y1="84" x2="80" y2="84" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
+  </symbol>
+
+  <!-- HELLO: open palm, fingers spread, near a small wave arc -->
+  <symbol id="sign-hello" viewBox="0 0 100 100">
+    <path d="M34 58 v-26 a5 5 0 0 1 10 0 v18" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+    <path d="M44 50 v-24 a5 5 0 0 1 10 0 v22" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+    <path d="M54 48 v-22 a5 5 0 0 1 10 0 v20" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+    <path d="M64 46 v-16 a5 5 0 0 1 10 0 v18" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+    <path d="M34 58 a12 12 0 0 0 -8 11 v10 a10 10 0 0 0 10 10 h26 a10 10 0 0 0 10 -10 v-21" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M80 30 q10 -4 8 -14" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+    <path d="M86 40 q12 0 14 -10" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  </symbol>
+
+  <!-- COFFEE: curled hand forming a C around a mug, steam above -->
+  <symbol id="sign-coffee" viewBox="0 0 100 100">
+    <path d="M66 28 a26 26 0 1 0 8 34" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+    <path d="M40 16 c0,-6 5,-6 5,-12 M50 14 c0,-6 5,-6 5,-12 M60 16 c0,-6 5,-6 5,-12" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  </symbol>
+
+  <!-- THANK YOU: flat hand at chin moving outward, motion lines -->
+  <symbol id="sign-thankyou" viewBox="0 0 100 100">
+    <path d="M30 44 h34 a6 6 0 0 1 6 6 v4 a6 6 0 0 1 -6 6 h-34 a10 10 0 0 1 -10 -10 a10 10 0 0 1 10 -6 Z" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round"/>
+    <line x1="34" y1="44" x2="34" y2="60" stroke="currentColor" stroke-width="4"/>
+    <line x1="44" y1="44" x2="44" y2="60" stroke="currentColor" stroke-width="4"/>
+    <line x1="54" y1="44" x2="54" y2="60" stroke="currentColor" stroke-width="4"/>
+    <path d="M74 50 q10 6 14 0 M76 62 q10 6 14 -2" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  </symbol>
+
+  <!-- MORE: two pinched hands, fingertips touching -->
+  <symbol id="sign-more" viewBox="0 0 100 100">
+    <path d="M28 50 a12 12 0 0 1 12 -12 a12 12 0 0 1 12 12 a14 14 0 0 1 -12 14 a14 14 0 0 1 -12 -14 Z" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M72 50 a12 12 0 0 0 -12 -12 a12 12 0 0 0 -12 12 a14 14 0 0 0 12 14 a14 14 0 0 0 12 -14 Z" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round"/>
+  </symbol>
+
+  <!-- FRIEND: two index fingers hooked together -->
+  <symbol id="sign-friend" viewBox="0 0 100 100">
+    <path d="M30 40 v14 a8 8 0 0 0 16 0 v-6 a6 6 0 0 1 12 0 v6" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M70 60 v-14 a8 8 0 0 0 -16 0 v6" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <!-- PLEASE: flat palm circling over chest -->
+  <symbol id="sign-please" viewBox="0 0 100 100">
+    <rect x="34" y="34" width="32" height="40" rx="10" fill="none" stroke="currentColor" stroke-width="6"/>
+    <line x1="42" y1="34" x2="42" y2="74" stroke="currentColor" stroke-width="3" opacity="0.5"/>
+    <line x1="50" y1="34" x2="50" y2="74" stroke="currentColor" stroke-width="3" opacity="0.5"/>
+    <line x1="58" y1="34" x2="58" y2="74" stroke="currentColor" stroke-width="3" opacity="0.5"/>
+    <path d="M74 40 a22 22 0 0 1 0 28" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  </symbol>
+
+</svg>
